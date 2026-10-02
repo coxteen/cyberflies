@@ -2,7 +2,7 @@
 
 # Cyberflies
 
-**A self-contained arcade survival game that puts movement, aiming, and shooting on one mouse-driven screen.**
+**A self-contained arcade survival game that puts movement, aiming, and shooting on one mouse-driven screen**
 
 [![Platform](https://img.shields.io/badge/Platform-Desktop-2563eb?style=flat-square)](https://love2d.org/)
 [![Framework](https://img.shields.io/badge/L%C3%96VE-11.5-ea316e?style=flat-square)](https://love2d.org/)
